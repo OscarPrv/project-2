@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin-top: 1.5rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+    margin-bottom: 2rem;
+    border-radius: 1.5em;
+    background-color: #242526;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    padding: 2.5rem 0;
+    text-align: center;
+    color: #e6e6e6;
+}
+
+h2 {
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 1em;
+    font-size: 1.3em;
+    color: #cccccc;
+}
+
+#legend{
+    color: #cccccc;
+    text-align: center;
+    margin-bottom: 0.7rem;
+    font-size: 0.8rem;
+}
+
+#link-one {
+    text-decoration: none;
+}
+
+#img-container {
+    background-color: rgb(19, 19, 19);
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 7px;
+    box-shadow: 0px 0px 3px 1px #0d0d0d;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#image {
+    width: 700px;
+    height: auto;
+    max-width: 100%;
+    box-shadow: 0px 0px 8px 4px #0d0d0d;
+}
+
+#img-caption {
+    text-align: center;
+    color: #b3b3b3;
+    font-size: 0.85em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.8em;
+}
+
+#tribute-info {
+    max-width: 40%;
+    color: #cccccc;
+    padding-top: 1rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#paragraph {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+}
+
+#paragraph p {
+    text-indent: 3em;
+    text-align: justify;
+    line-height: 1.25em;
+}
+
+h3 {
+    margin-bottom: 0.8em;
+}
+
+.br {
+    font-size: 0.8em;
+    margin-top: 0.5em;
+    display: flex;
+    justify-content: center;
+}
+
+#tribute-link {
+    text-decoration: none;
+}
+
+a {
+    color: #9999ff;
+}
